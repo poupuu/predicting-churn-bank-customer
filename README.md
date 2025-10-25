@@ -1,1 +1,9 @@
-# predicting-churn-bank-customer
+# Predicting Bank Customer Churn
+
+## Summary
+
+## Problem
+
+## Methodology
+
+## 
