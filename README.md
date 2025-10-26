@@ -21,9 +21,9 @@ This project develops a machine learning model to predict bank customer churn, b
 3. Modeling: LogisticRegression
 4. Finetuning: GridSearchCV
 
-Results
+## Results
 1. The Final model achieving cross validation accuracy of 81.09% and test set accuracy 81.20%
 
-Next Steps:
+## Next Steps:
 1. Try advanced models such as Randoom Forest, XGBoost that might capture mnore complex non linear patterns
 2. Featuree Engineering with existing data to provide stronger predictive signals
